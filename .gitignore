@@ -1,0 +1,16 @@
+.ipynb_checkpoints
+Act_Report.ipynb
+act_Report.pdf
+breeds_clean.csv
+image-predictions.tsv
+json_df_clean.csv
+num_denom_test.csv
+stages_clean.csv
+test.csv
+tweet-json.txt
+tweets_clean.csv
+twitter_archive_master.csv
+twitter-archive-enhanced.csv
+wrangle_act.ipynb
+wrangle_report.ipynb
+wrangle_report.pdf
